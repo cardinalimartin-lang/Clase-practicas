@@ -1,3 +1,5 @@
+// esto es java, los usamos para progrmar la pagina web
+
 let boton = document.getElementById("boton");
 let parrafo = document.getElementById('parrafo');
 
